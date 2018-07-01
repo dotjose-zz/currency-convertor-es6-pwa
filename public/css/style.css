@@ -1,0 +1,30 @@
+
+/* My Style just material */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+body {
+  display: flex;
+  max-height: 100vh;
+  flex-direction: column;
+  background: url(https://st.depositphotos.com/1005493/4871/i/950/depositphotos_48718041-stock-photo-money-of-the-different.jpg) no-repeat center center fixed; 
+  background-size: 55%;
+}
+
+.page-footer {
+  flex: 1 0 auto;
+}
+
+#convert-button {
+  margin: 10px;
+}
+
+.card {
+  margin: 40px auto;
+  background-color: #f5f5f5;
+}
