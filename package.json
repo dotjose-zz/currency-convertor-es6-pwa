@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js --config config.json"
   },
-  "author": "Ashwani Gupta",
+  "author": "Eyosiyas Tadele",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.4",
